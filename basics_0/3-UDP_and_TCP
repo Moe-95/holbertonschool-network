@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #This script provides information about UDP and TCP.
-echo "1"
-echo "2"
-echo "2"
+1
+2
+2
