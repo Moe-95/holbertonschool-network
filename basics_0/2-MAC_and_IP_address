@@ -1,2 +1,4 @@
-2
-2
+#!/usr/bin/env bash
+#This script provides information about MAC and IP addresses
+echo "2"
+echo "1"
