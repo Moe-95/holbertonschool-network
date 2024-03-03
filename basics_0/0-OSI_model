@@ -1,2 +1,4 @@
-3
-2
+#!/usr/bin/env bash
+# Description: This script provides information about the OSI model
+echo "2"
+echo "2"
